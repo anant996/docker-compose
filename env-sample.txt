@@ -1,0 +1,5 @@
+POSTGRES_USER=<postgres-user>
+POSTGRES_PW=<postgres-password>
+POSTGRES_DB=postgres
+PGADMIN_MAIL=<pgadmin-mail>
+PGADMIN_PW=<pgadmin-password>
